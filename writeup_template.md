@@ -1,13 +1,11 @@
-# **Traffic Sign Recognition** 
-
-## Writeup
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
+## **Term 1 Project 2 : Traffic Sign Classifier** 
+### ** Project Writeup**
+---
+ 
+**Input** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; German Traffic Signs<br/>
+**Output**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prediction of Traffic Signs by a Convolutional Neural Network trained on the German Traffic Sign dataset<br/>
 
 ---
-
-**Build a Traffic Sign Recognition Project**
-
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
 * Explore, summarize and visualize the data set
