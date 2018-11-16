@@ -1,10 +1,8 @@
 # Udacity Self-Driving Car Engineer Nanodegree
 
 
-## Term 1 Project 1 : Traffic Sign Classifier
+## Term 1 Project 2 : Traffic Sign Classifier
 ### Project Writeup
-
-#### Project Writeup
 
 ---
  
